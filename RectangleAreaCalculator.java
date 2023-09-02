@@ -17,7 +17,7 @@ public class RectangleAreaCalculator {
         double area = length * width;
 
         // Display the result
-        System.out.println("The area of the rectangle is " + area + units);
+        System.out.println("The area of the rectangle is " + area + " " + units);
 
         // Close the scanner
         scanner.close();
